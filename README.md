@@ -4,4 +4,4 @@ Updates for: Frontline RP
 
 Added new loading screen UI + PD core gameplay.
 
-EMS core gameplay, Boosting, casino, mechanic, admin features, multicharacter, custom chat
+EMS core gameplay, Boosting, casino, mechanic, admin features, multicharacter, custom chat, improved impound
